@@ -1,3 +1,0 @@
-C:\msys64\mingw64\bin\cmake.exe -E rm -f CMakeFiles\cpp_learn.dir/objects.a
-C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\cpp_learn.dir/objects.a @CMakeFiles\cpp_learn.dir\objects1.rsp
-C:\msys64\mingw64\bin\c++.exe -Wl,--whole-archive CMakeFiles\cpp_learn.dir/objects.a -Wl,--no-whole-archive -o bin\cpp_learn.exe -Wl,--out-implib,libcpp_learn.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cpp_learn.dir\linkLibs.rsp

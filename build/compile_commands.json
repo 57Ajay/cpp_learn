@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/projects/cProjects/cpp_learn/build",
-  "command": "C:\\msys64\\mingw64\\bin\\c++.exe   -std=c++23 -Wall -Wextra -Wpedantic -o CMakeFiles\\cpp_learn.dir\\src\\main.cpp.obj -c C:\\projects\\cProjects\\cpp_learn\\src\\main.cpp",
-  "file": "C:/projects/cProjects/cpp_learn/src/main.cpp",
-  "output": "CMakeFiles/cpp_learn.dir/src/main.cpp.obj"
-}
-]

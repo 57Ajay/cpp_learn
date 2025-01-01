@@ -1,3 +1,0 @@
-C:/projects/cProjects/cpp_learn/build/CMakeFiles/cpp_learn.dir
-C:/projects/cProjects/cpp_learn/build/CMakeFiles/edit_cache.dir
-C:/projects/cProjects/cpp_learn/build/CMakeFiles/rebuild_cache.dir
