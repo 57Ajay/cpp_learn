@@ -16,8 +16,13 @@ else()
     add_compile_options(-Wall -Wextra -Wpedantic)
 endif()
 
+include_directories(include)
 # Add the executable
-add_executable(${PROJECT_NAME} src/main.cpp)
+add_executable(${PROJECT_NAME}
+  src/main.cpp
+  src/class.cpp
+)
+
 
 # Set output directory
 set_target_properties(${PROJECT_NAME}
