@@ -1,6 +1,10 @@
 file(REMOVE_RECURSE
   "CMakeFiles/cpp_learn.dir/src/class.cpp.obj"
   "CMakeFiles/cpp_learn.dir/src/class.cpp.obj.d"
+  "CMakeFiles/cpp_learn.dir/src/ds.cpp.obj"
+  "CMakeFiles/cpp_learn.dir/src/ds.cpp.obj.d"
+  "CMakeFiles/cpp_learn.dir/src/files.cpp.obj"
+  "CMakeFiles/cpp_learn.dir/src/files.cpp.obj.d"
   "CMakeFiles/cpp_learn.dir/src/main.cpp.obj"
   "CMakeFiles/cpp_learn.dir/src/main.cpp.obj.d"
   "bin/cpp_learn.exe"

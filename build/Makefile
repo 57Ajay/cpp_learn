@@ -152,6 +152,54 @@ src/class.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/src/class.cpp.s
 .PHONY : src/class.cpp.s
 
+src/ds.obj: src/ds.cpp.obj
+.PHONY : src/ds.obj
+
+# target to build an object file
+src/ds.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/src/ds.cpp.obj
+.PHONY : src/ds.cpp.obj
+
+src/ds.i: src/ds.cpp.i
+.PHONY : src/ds.i
+
+# target to preprocess a source file
+src/ds.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/src/ds.cpp.i
+.PHONY : src/ds.cpp.i
+
+src/ds.s: src/ds.cpp.s
+.PHONY : src/ds.s
+
+# target to generate assembly for a file
+src/ds.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/src/ds.cpp.s
+.PHONY : src/ds.cpp.s
+
+src/files.obj: src/files.cpp.obj
+.PHONY : src/files.obj
+
+# target to build an object file
+src/files.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/src/files.cpp.obj
+.PHONY : src/files.cpp.obj
+
+src/files.i: src/files.cpp.i
+.PHONY : src/files.i
+
+# target to preprocess a source file
+src/files.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/src/files.cpp.i
+.PHONY : src/files.cpp.i
+
+src/files.s: src/files.cpp.s
+.PHONY : src/files.s
+
+# target to generate assembly for a file
+src/files.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/src/files.cpp.s
+.PHONY : src/files.cpp.s
+
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
@@ -188,6 +236,12 @@ help:
 	@echo ... src/class.obj
 	@echo ... src/class.i
 	@echo ... src/class.s
+	@echo ... src/ds.obj
+	@echo ... src/ds.i
+	@echo ... src/ds.s
+	@echo ... src/files.obj
+	@echo ... src/files.i
+	@echo ... src/files.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

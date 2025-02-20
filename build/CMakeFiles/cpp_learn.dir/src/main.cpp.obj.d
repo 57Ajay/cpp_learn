@@ -1,6 +1,8 @@
 CMakeFiles/cpp_learn.dir/src/main.cpp.obj: \
  C:\projects\cProjects\cpp_learn\src\main.cpp \
  C:/projects/cProjects/cpp_learn/include/class.h \
+ C:/projects/cProjects/cpp_learn/include/ds.h \
+ C:/projects/cProjects/cpp_learn/include/files.h \
  C:/msys64/mingw64/include/c++/14.2.0/format \
  C:/msys64/mingw64/include/c++/14.2.0/bits/requires_hosted.h \
  C:/msys64/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/c++config.h \

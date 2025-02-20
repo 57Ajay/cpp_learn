@@ -9,6 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/projects/cProjects/cpp_learn/src/class.cpp" "CMakeFiles/cpp_learn.dir/src/class.cpp.obj" "gcc" "CMakeFiles/cpp_learn.dir/src/class.cpp.obj.d"
+  "C:/projects/cProjects/cpp_learn/src/ds.cpp" "CMakeFiles/cpp_learn.dir/src/ds.cpp.obj" "gcc" "CMakeFiles/cpp_learn.dir/src/ds.cpp.obj.d"
+  "C:/projects/cProjects/cpp_learn/src/files.cpp" "CMakeFiles/cpp_learn.dir/src/files.cpp.obj" "gcc" "CMakeFiles/cpp_learn.dir/src/files.cpp.obj.d"
   "C:/projects/cProjects/cpp_learn/src/main.cpp" "CMakeFiles/cpp_learn.dir/src/main.cpp.obj" "gcc" "CMakeFiles/cpp_learn.dir/src/main.cpp.obj.d"
   )
 
